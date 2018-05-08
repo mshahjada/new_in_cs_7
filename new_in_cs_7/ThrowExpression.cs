@@ -11,6 +11,7 @@ namespace new_in_cs_7
 
         public ThrowExpression(string fname, string lname)
         {
+            Console.WriteLine("-----------Exception Throw-------------");
             //FirstName = fname ?? throw new ArgumentNullException(fname);
             FirstName = fname ?? throw new ArgumentNullException(paramName: nameof(fname), message:"First name shouldn't be null");
             FirstName = lname;

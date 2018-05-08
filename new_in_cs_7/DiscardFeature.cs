@@ -31,6 +31,7 @@ namespace new_in_cs_7
 
         public static void Initialize()
         {
+            Console.WriteLine("-----------Discard Feature-------------");
             var (_, from, limit, res) = ResultGenerator("addd", 10, 13);
             Console.WriteLine($"Result : {res}");
         }

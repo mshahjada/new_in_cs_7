@@ -1,8 +1,9 @@
 C:\Users\BS121\documents\visual studio 2017\Projects\new_in_cs_7\new_in_cs_7\bin\Debug\new_in_cs_7.exe.config
 C:\Users\BS121\documents\visual studio 2017\Projects\new_in_cs_7\new_in_cs_7\bin\Debug\new_in_cs_7.exe
 C:\Users\BS121\documents\visual studio 2017\Projects\new_in_cs_7\new_in_cs_7\bin\Debug\new_in_cs_7.pdb
+C:\Users\BS121\documents\visual studio 2017\Projects\new_in_cs_7\new_in_cs_7\bin\Debug\System.Threading.Tasks.Extensions.dll
 C:\Users\BS121\documents\visual studio 2017\Projects\new_in_cs_7\new_in_cs_7\bin\Debug\System.ValueTuple.dll
+C:\Users\BS121\documents\visual studio 2017\Projects\new_in_cs_7\new_in_cs_7\bin\Debug\System.Threading.Tasks.Extensions.xml
 C:\Users\BS121\documents\visual studio 2017\Projects\new_in_cs_7\new_in_cs_7\bin\Debug\System.ValueTuple.xml
-C:\Users\BS121\documents\visual studio 2017\Projects\new_in_cs_7\new_in_cs_7\obj\Debug\new_in_cs_7.csprojResolveAssemblyReference.cache
 C:\Users\BS121\documents\visual studio 2017\Projects\new_in_cs_7\new_in_cs_7\obj\Debug\new_in_cs_7.exe
 C:\Users\BS121\documents\visual studio 2017\Projects\new_in_cs_7\new_in_cs_7\obj\Debug\new_in_cs_7.pdb
